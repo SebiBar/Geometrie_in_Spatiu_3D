@@ -1,2 +1,2 @@
 # Geometrie_in_Spatiu_3D
-Proiect utilizand Processing pentru a vizualiza o piramida 3D
+Project utilizing Processing to visualize a 3D pyramid.
